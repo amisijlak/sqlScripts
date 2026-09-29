@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="(local):DESKTOP-AAIQC64\HP">
+        <ConnectionNode Name="(local):DESKTOP-5O308U3\Admin">
           <Created>2026-08-27T13:20:09.5836219+03:00</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
@@ -26,6 +26,12 @@
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>08-27-2026.sql</FullPath>
+        </FileNode>
+        <FileNode Name="General-Close_Loans.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>General-Close_Loans.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

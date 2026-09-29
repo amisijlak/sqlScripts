@@ -56,9 +56,6 @@ update workflows.WorkflowData set KycCheckPassed=1,CurrentStepData='Passed' wher
 PhoneNumber IN ('256759669819','256759171176','256701643006','256700643534',
 '256760549285','256744638227','256765056737','256769281151','256730918350')
  and CurrentStepId=5;
-
- INSERT INTO opportunities.LeaseCompletionRequests(OpportunityId,LeaseStatus, CompletionDate,CreatedOn, Status) VALUES(134943,4,'2026-09-10',GETDATE(), 0)
- INSERT INTO opportunities.LeaseCompletionRequests(OpportunityId,LeaseStatus, CompletionDate,CreatedOn, Status) VALUES(135045,4,'2026-09-10',GETDATE(), 0)
  
 select * from opportunities.LeaseCompletionRequests where OpportunityId=134943
 select * from kyc.AccountKYCFields where accountId =500050
