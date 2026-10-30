@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TUG Projects\\tug-scripts\\tug-scripts\\TugeScripts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB502C75-B7E8-61FB-3393-A10B45F29684}|TugeScripts.ssmssqlproj|D:\\TUG Projects\\tug-scripts\\tug-scripts\\TugeScripts\\08-27-2026.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{FB502C75-B7E8-61FB-3393-A10B45F29684}|TugeScripts.ssmssqlproj|solutionrelative:08-27-2026.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB502C75-B7E8-61FB-3393-A10B45F29684}|TugeScripts.ssmssqlproj|D:\\TUG Projects\\tug-scripts\\tug-scripts\\TugeScripts\\General-Close_Loans.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
       "RelativeMoniker": "D:0:0:{FB502C75-B7E8-61FB-3393-A10B45F29684}|TugeScripts.ssmssqlproj|solutionrelative:General-Close_Loans.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB502C75-B7E8-61FB-3393-A10B45F29684}|TugeScripts.ssmssqlproj|D:\\TUG Projects\\tug-scripts\\tug-scripts\\TugeScripts\\08-27-2026.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FB502C75-B7E8-61FB-3393-A10B45F29684}|TugeScripts.ssmssqlproj|solutionrelative:08-27-2026.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "General-Close_Loans.sql - not connected",
               "DocumentMoniker": "D:\\TUG Projects\\tug-scripts\\tug-scripts\\TugeScripts\\General-Close_Loans.sql",
               "RelativeDocumentMoniker": "General-Close_Loans.sql",
@@ -33,7 +33,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "08-27-2026.sql - not connected",
               "DocumentMoniker": "D:\\TUG Projects\\tug-scripts\\tug-scripts\\TugeScripts\\08-27-2026.sql",
               "RelativeDocumentMoniker": "08-27-2026.sql",
