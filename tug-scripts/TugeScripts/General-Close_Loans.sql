@@ -11,4 +11,9 @@ INSERT INTO opportunities.LeaseCompletionRequests(OpportunityId,LeaseStatus, Com
 update opportunities.opportunities set leaseStatus =2, lastupdatedOn=GetDate() where id =146293
 
 
+INSERT INTO opportunities.LeaseCompletionRequests(OpportunityId,LeaseStatus, CompletionDate,CreatedOn, Status) VALUES(139292,4,'2026-10-26',GETDATE(), 0)
+INSERT INTO opportunities.LeaseCompletionRequests(OpportunityId,LeaseStatus, CompletionDate,CreatedOn, Status) VALUES(139339,3,'2026-10-26',GETDATE(), 0)
+
+
+
  
